@@ -1,7 +1,8 @@
 Social Simulation Seminar
 ==============================
 
-A short description of the project.
+Implemented a parking search and stated preference model using the city of Mannheim as an example for simulations. 
+The full report can be found here https://github.com/JenniferHahn/social_simulation_seminar/blob/master/reports/Social_Simulation_Seminar.pdf. 
 
 Project Organization
 ------------
